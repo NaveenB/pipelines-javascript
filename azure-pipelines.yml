@@ -1,4 +1,6 @@
 # Node.js with Angular
+- task: UseNode@1
+  inputs:
 # Build a Node.js project that uses Angular.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
