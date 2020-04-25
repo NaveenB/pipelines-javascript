@@ -1,4 +1,4 @@
-# Node.js with Angular
+# Node.js
 - task: UseNode@1
   inputs:
 # Build a Node.js project that uses Angular.
